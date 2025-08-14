@@ -21,8 +21,8 @@ All my projects are open-source and available on my GitHub: [https://github.com/
 ![Sui](https://img.shields.io/badge/Sui%20Blockchain-5D3FD3?style=for-the-badge&logo=sui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Frontend-%23F28E1C?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-%23F28E1C?style=for-the-badge)
 
 ---
 
