@@ -1,17 +1,12 @@
 
-## 👋 Hi, I'm Dennis Ogunyemi — Frontend & Web3 Developer
+## 👋 Hi, I'm Dennis Ogunyemi — Frontend(Web3) Developer
 
-I’m a frontend developer and smart contract enthusiast focused on building **robust on-chain applications** using **Move** on the [Sui blockchain](https://sui.io).
+I’m a frontend developer focused on building **web3 applications** by integrating and interacting with smart contracts on the [Sui blockchain](https://sui.io).
 
-In a short time, I’ve gone from learning Move to shipping real-world dApps, including:
+In a short time, I’ve pushed real-world dApps, including:
 
-- **Name Service (SuiNS-style)** – decentralized naming service  
-- **Multi-seller Marketplace** – a fully on-chain marketplace with wallet integrations  
-- **Batch Airdrop Contract** – mass token distribution automation  
-- **On-chain Voting System** – governance and proposal management  
-- **Token Modules & Mint Logic** – custom token creation and management  
-
-All my projects are open-source and available on my GitHub: [https://github.com/dennispaul8](https://github.com/dennispaul8)
+- **Sui Faucet dApp** – "A user-friendly interface to request test tokens on the Sui network for development and testing purposes"  
+- **On-chain Voting dApp** – "A frontend platform that lets users view proposals and cast votes directly on-chain" 
 
 ---
 
@@ -38,7 +33,7 @@ All my projects are open-source and available on my GitHub: [https://github.com/
 
 I’m currently open to:
 
-- 📜 Smart contract / Web3 frontend roles  
+- 📜 Web3 frontend roles  
 - 💼 Freelance and collaborative projects in the **Sui ecosystem**  
 - 🔧 Open-source contributions  
 
@@ -46,12 +41,12 @@ I’m currently open to:
 
 ## 📫 Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/t0mcr0wn)  
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t0mcr0wn)  
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dennis_icode)  
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dennis_sinnd)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dennispaul8)
 
 ---
 
 ### ⚡ Fun Fact
 
-I build **on-chain voting systems, naming services, and marketplaces** to experiment with governance and tokenomics — all with a focus on clean, user-friendly frontend experiences.
+I build **web3 frontend projects** that prioritize clean design, intuitive UX, and seamless interaction with blockchain applications.
