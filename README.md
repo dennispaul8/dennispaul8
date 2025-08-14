@@ -3,7 +3,7 @@
 
 I’m a frontend developer focused on building **web3 applications** by integrating and interacting with smart contracts on the [Sui blockchain](https://sui.io).
 
-In a short time, I’ve pushed real-world dApps, including:
+I’ve pushed real-world dApps, including:
 
 - **Sui Faucet dApp** – "A user-friendly interface to request test tokens on the Sui network for development and testing purposes"  
 - **On-chain Voting dApp** – "A frontend platform that lets users view proposals and cast votes directly on-chain" 
@@ -24,7 +24,7 @@ In a short time, I’ve pushed real-world dApps, including:
 ## 🌱 What I’m Working On
 
 - Developing **developer-friendly dApps** on Sui with modern UI/UX  
-- Building **public utilities** for the Sui ecosystem (like testnet explorers and faucets)  
+- Building **public utilities** for the Sui ecosystem  
 - Contributing to **open-source Move & Sui projects**  
 
 ---
