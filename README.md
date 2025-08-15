@@ -8,8 +8,7 @@ I’ve pushed real-world dApps, including:
 - **Sui Faucet dApp** – "A user-friendly interface to request test tokens on the Sui network for development and testing purposes"  
 - **On-chain Voting dApp** – "A frontend platform that lets users view proposals and cast votes directly on-chain" 
 
----
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ---
 
 ## 🛠 Skills & Tools
