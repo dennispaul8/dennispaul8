@@ -9,6 +9,8 @@ I’ve pushed real-world dApps, including:
 - **On-chain Voting dApp** – "A frontend platform that lets users view proposals and cast votes directly on-chain" 
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+---
 
 ## 🛠 Skills & Tools
 
