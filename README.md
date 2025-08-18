@@ -1,5 +1,6 @@
 
-## 👋 Hi, I'm Dennis Ogunyemi — Frontend(Web3) Developer
+##  Hi, I'm Dennis Ogunyemi — Frontend(Web3) Developer ![CodingGIF](https://github.com/user-attachments/assets/5d39b89b-40d0-4612-8bf6-5fa4161979ce)
+
 
 I’m a frontend developer focused on building **web3 applications** by integrating and interacting with smart contracts on the [Sui blockchain](https://sui.io).
 
