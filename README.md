@@ -11,7 +11,7 @@ I’ve pushed real-world dApps, including:
 
 ---
 
-## 🛠 Skills & Tools
+##  Skills & Tools
 
 ![Move](https://img.shields.io/badge/Move-%234285F4?style=for-the-badge&logo=move&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui%20Blockchain-5D3FD3?style=for-the-badge&logo=sui&logoColor=white)
@@ -21,7 +21,7 @@ I’ve pushed real-world dApps, including:
 
 ---
 
-## 🌱 What I’m Working On
+##  What I’m Working On
 
 - Developing **developer-friendly dApps** on Sui with modern UI/UX  
 - Building **public utilities** for the Sui ecosystem  
@@ -29,23 +29,23 @@ I’ve pushed real-world dApps, including:
 
 ---
 
-## 🤝 Open to Opportunities
+##  Open to Opportunities
 
 I’m currently open to:
 
-- 📜 Web3 frontend roles  
-- 💼 Freelance and collaborative projects in the **Sui ecosystem**  
-- 🔧 Open-source contributions  
+-  Web3 frontend roles  
+-  Freelance and collaborative projects in the **Sui ecosystem**  
+-  Open-source contributions  
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dennis_icode)  
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dennis_sinnd)  
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 
 I build **web3 frontend projects** that prioritize clean design, intuitive UX, and seamless interaction with blockchain applications.
