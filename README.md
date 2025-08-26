@@ -1,12 +1,12 @@
 
-##  Hi, I'm Dennis Ogunyemi — Frontend(Web3) Developer
+##  Hi, I'm Dennis Ogunyemi — Frontend Developer
 
 I’m a frontend developer focused on building **web3 applications** by integrating and interacting with smart contracts on the [Sui blockchain](https://sui.io).
 
 I’ve pushed real-world dApps, including:
 
-- **Sui Faucet dApp** – "A user-friendly interface to request test tokens on the Sui network for development and testing purposes"  
-- **On-chain Voting dApp** – "A frontend platform that lets users view proposals and cast votes directly on-chain" 
+- **Sui Faucet dApp** – A user-friendly interface to request test tokens on the Sui network for development and testing purposes
+- **On-chain Voting dApp** – A frontend platform that lets users view proposals and cast votes directly on-chain 
 
 
 ---
@@ -33,7 +33,7 @@ I’ve pushed real-world dApps, including:
 
 I’m currently open to:
 
--  Web3 frontend roles  
+-  Frontend roles  
 -  Freelance and collaborative projects in the **Sui ecosystem**  
 -  Open-source contributions  
 
@@ -46,7 +46,3 @@ I’m currently open to:
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dennispaul.xyz) 
 
 ---
-
-###  Fun Fact
-
-I build **web3 frontend projects** that prioritize clean design, intuitive UX, and seamless interaction with blockchain applications.
