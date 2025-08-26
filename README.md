@@ -20,13 +20,6 @@ I’ve pushed real-world dApps, including:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
----
-
-##  What I’m Working On
-
-- Developing **developer-friendly dApps** on Sui with modern UI/UX  
-- Building **public utilities** for the Sui ecosystem  
-- Contributing to **open-source Move & Sui projects**  
 
 ---
 
