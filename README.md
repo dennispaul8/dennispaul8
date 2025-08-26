@@ -5,7 +5,7 @@ I’m a frontend developer focused on building **web3 applications** by integrat
 
 I’ve pushed real-world dApps, including:
 
-- **CoinTribute** - A decentralized fundraising platform built with Sui Move.
+- **CoinTribute** - A decentralized fundraising platform built with Sui Move. https://cointribute.vercel.app/
 - **Sui Faucet dApp** – A user-friendly interface to request test tokens on the Sui network for development and testing purposes
 - **On-chain Voting dApp** – A frontend platform that lets users view proposals and cast votes directly on-chain
 
