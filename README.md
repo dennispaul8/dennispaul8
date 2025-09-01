@@ -1,5 +1,5 @@
 
-##  Hi, I'm Dennis Ogunyemi, a Frontend Developer
+##  Hi, I'm Dennis Ogunyemi - Frontend Developer
 
 I’m a frontend developer focused on building **web3 applications** by integrating and interacting with smart contracts on the Sui blockchain.
 
