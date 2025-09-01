@@ -7,7 +7,8 @@ I’ve pushed real-world dApps, including:
 
 - **CoinTribute** - A decentralized fundraising platform built with Sui Move. 
 - **Sui Faucet dApp** – A user-friendly interface to request test tokens on the Sui network for development and testing purposes. 
-- **On-chain Voting dApp** – A frontend platform that lets users view proposals and cast votes directly on-chain. 
+- **On-chain Voting dApp** – A frontend platform that lets users view proposals and cast votes directly on-chain.
+- **DennisNFT** – Sui-based NFT minting dApp built with TypeScript and Tailwind CSS. It provides a clean interface for creating, previewing and burning NFTs directly on-chain. 
 
 
 ---
