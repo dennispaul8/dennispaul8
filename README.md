@@ -1,7 +1,7 @@
 
-##  Hi, I'm Dennis Ogunyemi - Frontend Developer
+##  Hi, I'm Dennis Ogunyemi – Frontend & Move Developer
 
-I’m a frontend developer focused on building **web3 applications** by integrating and interacting with smart contracts on the Sui blockchain.
+I’m a frontend developer and Move smart contract engineer, focused on building web3 applications on the Sui blockchain. My work bridges intuitive UIs with on-chain logic, integrating the Sui SDK on the frontend while designing and deploying secure Move-based smart contracts.
 
 I’ve pushed real-world dApps, including:
 
