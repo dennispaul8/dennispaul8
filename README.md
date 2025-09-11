@@ -1,5 +1,6 @@
 
 ##  Hi, I'm Dennis Ogunyemi – Frontend & Move Developer
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dennispaul.xyz) 
 
 I’m a frontend developer and Move smart contract engineer, focused on building web3 applications on the Sui blockchain. My work bridges intuitive UIs with on-chain logic, integrating the Sui SDK on the frontend while designing and deploying secure Move-based smart contracts.
 
